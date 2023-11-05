@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Qolby</h1>
-<h3 align="center">A passionate Software from Indonesia</h3>
+<h3 align="center">A passionate Software Engineer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qolbyadha14&label=Profile%20views&color=0e75b6&style=flat" alt="qolbyadha14" /> </p>
 
