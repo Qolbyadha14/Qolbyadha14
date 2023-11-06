@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Qolby</h1>
 <h3 align="center">A passionate Software Engineer from Indonesia</h3>
+<img align="center" alt="software-engineer" width="100%" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmiro.medium.com%2Fmax%2F1400%2F0*-u0b7K0Q6zfBcQqT.gif&f=1&nofb=1&ipt=97f3b049b0f55ef2291012466a55b86845a9217f34242c5880905ccc541d278d&ipo=images"/>
+<p align="justify" style="color: white !important; text-decoration: none !important">I'm a Software Engineering at Kawan Lama Group with a passion for backend development. 
+  I've honed my skills in C#, Php, JavaScript, Ruby, and I've delved into advanced C# frameworks like .net core to create web api.
+  My proficiency also extends to PHP frameworks such as Laravel, CodeIgniter 3 (CI3) and Ruby On Rails (RoR), enabling me to develop robust api solutions.
+  I'm committed to staying updated with the latest technologies to continuously push the boundaries of backend development.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qolbyadha14&label=Profile%20views&color=0e75b6&style=flat" alt="qolbyadha14" /> </p>
 
