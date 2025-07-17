@@ -149,5 +149,5 @@ Payment request system with CMS integration
 </p>
 
 <p align="center">
-  📍 Jakarta Barat, Indonesia | 📱 082282123540
+  📍 Jakarta Barat, Indonesia
 </p>
